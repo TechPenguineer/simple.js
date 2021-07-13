@@ -2,7 +2,7 @@
   "name": "simplescript.js",
   "version": "1.0.0",
   "description": "A javascript library to make interactive websites easier to make",
-  "main": "index.js",
+  "main": "simple.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
